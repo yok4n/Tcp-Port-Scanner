@@ -1,2 +1,2 @@
-# depo
- projeler
+#REPOSTORİ FELAN
+ufak tefek bişeyler
